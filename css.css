@@ -1,0 +1,28 @@
+.octadesk__custom-form__alert {}
+.octadesk__custom-form__alert--success { }
+.octadesk__custom-form__alert--warning { }
+.octadesk__custom-form__alert--danger { }
+.octadesk__custom-form__message--error { }
+.octadesk__custom-form__container {}
+.octadesk__custom-form__label__required
+.octadesk__custom-form__label, label.octadesk__custom-form__label { }
+.octadesk__custom-form__submit, button.octadesk__custom-form__submit { }
+.octadesk__custom-form__field, input.octadesk__custom-form__field { }
+.has-error .octadesk__custom-form__field, .has-error input.octadesk__custom-form__field { }
+.octadesk__custom-form__comment_description {height: 50px !important; }
+.octadesk__custom-form__field#comment_description { }
+.octadesk__custom-form__nome_do_solicitante { }
+.octadesk__custom-form__field#nome_do_solicitante { }
+.octadesk__custom-form__email_do_solicitante { }
+.octadesk__custom-form__field#email_do_solicitante { }
+.octadesk__custom-form__titulo_do_ticket { }
+.octadesk__custom-form__field#titulo_do_ticket { }
+.octadesk__custom-form__cpf { }
+.octadesk__custom-form__field#cpf { }
+.octadesk__custom-form__assunto_da_solicitacao { }
+.octadesk__custom-form__field#assunto_da_solicitacao { }
+.octadesk__custom-form__destino_da_carga { }
+.octadesk__custom-form__field#destino_da_carga { }
+.octadesk__custom-form__numero_da_nota_caso_possua { }
+.octadesk__custom-form__field#numero_da_nota_caso_possua {bold }
+
